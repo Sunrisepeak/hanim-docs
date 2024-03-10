@@ -136,5 +136,7 @@ if (auto animPtr = anim.lock()) {
 
 
 
+{% embed url="https://github.com/Sunrisepeak/hanim-docs" %}
+
 {% @github-files/github-code-block %}
 
